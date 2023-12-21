@@ -1,0 +1,39 @@
+.copy_right_footer
+{
+    position:fixed;
+    bottom: 0 ;
+    width:100%;
+    text-align: center;
+}
+
+
+body
+{
+    background-color: lightgray;
+
+}
+    
+
+h1
+{
+    font-family:fantasy;
+
+}
+
+h4{
+    font-weight: 900;
+    color:red;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+img:hover{
+   border-radius:140px;
+   box-shadow: 0 6px 8px rgba(2 , 2 , 2 , 0.2)
+}
+
